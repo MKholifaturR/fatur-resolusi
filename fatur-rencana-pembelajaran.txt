@@ -5,5 +5,8 @@ RENCANA PEMBELAJARAN FATUR
   * Lanjutan
   * Layout
 - JAVASCRIPT
+  * Dasar
+  * Lanjutan
+  * Layout
 - REACT JS
 - MEMBUAT WEBSITE MOVIE
